@@ -21,7 +21,7 @@ void printMatrix()
 		for (int j = 0; j < 3; j++) {
 			cout << matrix[i][j];
 		}
-		cout << "\n";
+		cout << "\n\n";
 	}
 }
 
